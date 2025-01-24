@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Az én weboldalam</title>
+</head>
+<body>
+    <h1>Üdvözöllek az én weboldalamon!</h1>
+    <p>Ez egy egyszerű HTML alapú weboldal.</p>
+    <img src="path_to_your_image.jpg" alt="Kép leírása">
+</body>
+</html>
